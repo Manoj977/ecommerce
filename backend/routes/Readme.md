@@ -1,0 +1,1 @@
+routes => It handle api request and redirect to their particular section
